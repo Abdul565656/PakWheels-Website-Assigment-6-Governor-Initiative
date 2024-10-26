@@ -21,7 +21,7 @@ const Page = () => {
       {/* Image Section */}
       <div className="flex justify-center mb-12">
         <Image 
-          src="/images/suzuki-alto.jpg" 
+          src="/images/car4.jpg" 
           alt="Suzuki Alto details image"
           width={600}
           height={400}
